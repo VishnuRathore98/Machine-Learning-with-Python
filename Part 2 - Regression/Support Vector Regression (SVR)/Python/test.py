@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
+from sklearn.svm import SVR
 
 dataset = pd.read_csv('Position_Salaries.csv')
 X = dataset.iloc[:,1:-1].values
@@ -20,3 +21,6 @@ y_standard = sc_y.fit_transform(y)
 print("X: ",X_standard)
 print("y: ",y_standard)
 
+# model
+regressor = SVR(kernel='rbf')
+regressor.fit(X_standard,y_standard)
