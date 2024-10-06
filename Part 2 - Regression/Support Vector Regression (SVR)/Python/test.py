@@ -24,3 +24,6 @@ print("y: ",y_standard)
 # model
 regressor = SVR(kernel='rbf')
 regressor.fit(X_standard,y_standard)
+
+# making prediction
+sc_y.inverse_transform(regressor.predict(sc_X.transform([[6.5]])).reshape(-1,1))
