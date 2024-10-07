@@ -27,3 +27,7 @@ regressor.fit(X_standard,y_standard)
 
 # making prediction
 sc_y.inverse_transform(regressor.predict(sc_X.transform([[6.5]])).reshape(-1,1))
+
+plt.scatter(sc_X.inverse_transform(X_standard), sc_y.inverse_transform(y_standard), color="red")
+plt.plot(sc_X.inverse_transform(X_standard), sc_y.inverse_transform(regressor.predict(X_standard).reshape(-1,1)), color="blue")
+plt.show()
