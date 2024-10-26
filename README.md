@@ -7,10 +7,10 @@ This repository contains my journey of learning machine learning with Python. I'
 - **Data Preprocessing:** Techniques for cleaning, transforming, and preparing data for machine learning models.
 - **Regression:** Building models to predict continuous target variables.
 - **Classification:** Building models to predict categorical target variables.
+- **Clustering:** Unsupervised learning techniques for grouping data points.
 
 ## In Progress:
-
-- **Clustering:** Unsupervised learning techniques for grouping data points.
+- **Association Rule Learning:** Finding relationship between variables in dataset.
 
 ## Upcomming:
 
