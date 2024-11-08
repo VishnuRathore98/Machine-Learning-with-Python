@@ -9,10 +9,10 @@ This repository contains my journey of learning machine learning with Python. I'
 - **Classification:** Building models to predict categorical target variables.
 - **Clustering:** Unsupervised learning techniques for grouping data points.
 - **Association Rule Learning:** Finding relationship between variables in dataset.
+- **Reinforcement Learning:** Training agents to learn through interactions with an environment.
 
 ## In Progress:
-
-- **Reinforcement Learning:** Training agents to learn through interactions with an environment.
+- **NLP:** Using NLP for customer review sentiment analysis
 
 ## Upcomming:
 
