@@ -10,14 +10,14 @@ This repository contains my journey of learning machine learning with Python. I'
 - **Clustering:** Unsupervised learning techniques for grouping data points.
 - **Association Rule Learning:** Finding relationship between variables in dataset.
 - **Reinforcement Learning:** Training agents to learn through interactions with an environment.
-
-## In Progress:
 - **NLP:** Using NLP for customer review sentiment analysis
 
-## Upcomming:
-
-- **Dimensionality Reduction:** Techniques for reducing the number of features in a dataset.
+## In Progress:
 - **Deep Learning:** Implementing neural networks for complex tasks.
+    - **Artificial Neural Networks**
+    
+## Upcomming:
+- **Dimensionality Reduction:** Techniques for reducing the number of features in a dataset.
 
 ## Contributions
 
