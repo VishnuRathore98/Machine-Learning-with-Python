@@ -17,6 +17,8 @@ This repository contains my journey of learning machine learning with Python. I'
     - **Artificial Neural Networks**
     
 ## Upcomming:
+- **Deep Learning:** Implementing neural networks for complex tasks.
+    - **Convolutional Neural Networks**
 - **Dimensionality Reduction:** Techniques for reducing the number of features in a dataset.
 
 ## Contributions
