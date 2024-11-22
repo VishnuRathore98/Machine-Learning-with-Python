@@ -11,14 +11,14 @@ This repository contains my journey of learning machine learning with Python. I'
 - **Association Rule Learning:** Finding relationship between variables in dataset.
 - **Reinforcement Learning:** Training agents to learn through interactions with an environment.
 - **NLP:** Using NLP for customer review sentiment analysis
+- **Deep Learning:** Implementing neural networks for complex tasks.
+    - **Artificial Neural Networks**
 
 ## In Progress:
 - **Deep Learning:** Implementing neural networks for complex tasks.
-    - **Artificial Neural Networks**
+    - **Convolutional Neural Networks**
     
 ## Upcomming:
-- **Deep Learning:** Implementing neural networks for complex tasks.
-    - **Convolutional Neural Networks**
 - **Dimensionality Reduction:** Techniques for reducing the number of features in a dataset.
 
 ## Contributions
