@@ -13,13 +13,22 @@ This repository contains my journey of learning machine learning with Python. I'
 - **NLP:** Using NLP for customer review sentiment analysis
 - **Deep Learning:** Implementing neural networks for complex tasks.
     - **Artificial Neural Networks**
+    - **Convolutional Neural Networks**
 
 ## In Progress:
-- **Deep Learning:** Implementing neural networks for complex tasks.
-    - **Convolutional Neural Networks**
+- **Dimensionality Reduction:** Techniques for reducing the number of features in a dataset.
+    - **Principal Component Analysis(PCA)**
     
 ## Upcomming:
 - **Dimensionality Reduction:** Techniques for reducing the number of features in a dataset.
+    - **Linear Discriminant Analysis(LDA)**
+    - **Kernel PCA**
+- **Model Selection and Boosting:** Techniques for deciding which model to choose, and how to boost the performance.
+    - **Model Selection:**
+        - **Grid Search**
+        - **K fold cross validation**
+    - **Boosting:**
+        - **XGBoost**
 
 ## Contributions
 
