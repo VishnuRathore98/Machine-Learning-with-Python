@@ -16,16 +16,18 @@ This repository contains my journey of learning machine learning with Python. I'
     - **Convolutional Neural Networks**
     - **Principal Component Analysis(PCA)**
     - **Linear Discriminant Analysis(LDA)**
+    - **Kernel PCA**
 
 ## In Progress:
-- **Dimensionality Reduction:** Techniques for reducing the number of features in a dataset.
-    - **Kernel PCA**
-    
+- **Model Selection and Boosting:** Techniques for deciding which model to choose, and how to boost 
+the performance.
+    - **Model Selection:**
+        - **K fold cross validation**   
 ## Upcomming:
-- **Model Selection and Boosting:** Techniques for deciding which model to choose, and how to boost the performance.
+- **Model Selection and Boosting:** Techniques for deciding which model to choose, and how to boost 
+the performance.
     - **Model Selection:**
         - **Grid Search**
-        - **K fold cross validation**
     - **Boosting:**
         - **XGBoost**
 
