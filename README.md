@@ -21,15 +21,8 @@ This repository contains my journey of learning machine learning with Python. I'
     - **Model Selection:**
         - **K fold cross validation**   
         - **Grid Search**
-
-## In Progress:
-- **Model Selection and Boosting:** Techniques for deciding which model to choose, and how to boost the performance.
     - **Boosting:**
         - **XGBoost**
-
-## Upcomming:
-- **Model Selection and Boosting:** Techniques for deciding which model to choose, and how to boost the performance.
-    - **Boosting:**
         - **CatBoost**
 
 ## Contributions
